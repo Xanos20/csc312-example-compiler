@@ -28,3 +28,8 @@ dist/
 
 # Vim undo files
 .*.un~
+
+# OCamlbuild files
+
+_build/
+*.native
